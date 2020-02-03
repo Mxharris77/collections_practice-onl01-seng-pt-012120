@@ -7,6 +7,6 @@ array.sort! {|x,y| y <=> x}
 end
 
 def sort_array_char_count(array)
-  array.chars.sort
+  array.sort do |
  
 end
