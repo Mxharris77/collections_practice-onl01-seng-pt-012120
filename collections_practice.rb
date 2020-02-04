@@ -43,3 +43,5 @@ end
 def add_s(array)
   array.each do |word|
     word + "s"
+  end
+end
